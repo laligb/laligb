@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lali</h1>
-<h3 align="center">A passionate software developer from Georgia</h3>
+<h3 align="center">A passionate software developer and chess player</h3>
 
 - 📫 How to reach me **lalibibilashvili@gmail.com**
 
