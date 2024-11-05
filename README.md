@@ -6,6 +6,7 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laligb&layout=compact)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=laligb)](https://github.com/laligb/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
