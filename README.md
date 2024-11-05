@@ -5,6 +5,8 @@
 - 📫 How to reach me **lalibibilashvili@gmail.com**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laligb)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laligb&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laligb&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
