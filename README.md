@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **lalibibilashvili@gmail.com**
 
-[![Lali's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/laligb/github-readme-stats)
+[![Lali's GitHub stats](https://github-readme-stats.vercel.app/api?username=laligb)](https://github.com/laligb/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
